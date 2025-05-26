@@ -1,5 +1,5 @@
 ## ECE515 Mobile-and-Pervasive-Computing
-Project Title: Simulation of Cone-Based Topology Control (CBTC)
+### Project Title: Simulation of Cone-Based Topology Control (CBTC)
 
 ### Objective
 This project implements the Cone-Based Topology Control (CBTC) algorithm, based on the research paper: \
